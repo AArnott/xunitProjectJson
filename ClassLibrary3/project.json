@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "xunit": "2.0.0",
+    "xunit.runner.visualstudio": "2.0.1"
+  },
+  "frameworks": {
+    "net45": {}
+  },
+  "runtimes": {
+    "win-anycpu": {}
+  }
+}
